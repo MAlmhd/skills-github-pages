@@ -7,12 +7,12 @@ tags: [Software Engineering, Portfolio]
 author: "Mohammed"
 ---
 
-# أهلاً بكم في مساحتي الخاصة!
+# Welcome to my personal space!
 
-أنا مهندس برمجيات مهتم ببناء الأنظمة المتكاملة وتطوير تطبيقات الهاتف. 
-في هذه المدونة، سأشارككم تفاصيل مشاريعي، وما أتعلمه في عالم الـ Backend والـ DevOps.
+I am a Software Engineer passionate about building integrated systems and developing mobile applications. 
+In this blog, I will share the details of my projects and everything I am learning in the worlds of **Backend Development** and **DevOps**.
 
-### ما الذي ستجده هنا؟
-* **تحديات برمجية:** حلول لمسائل Data Structures.
-* **مشاريعي:** كواليس بناء تطبيقات مثل Spring Boot و Flutter.
-* **استراتيجيات:** (لأن الحياة ليست مجرد كود، أحياناً تكون مباراة شطرنج ذكية).
+### What you will find here:
+* **Coding Challenges:** Deep dives into Data Structures and algorithmic problem-solving.
+* **My Projects:** A look behind the scenes of building applications using frameworks like **Spring Boot** and **Flutter**.
+* **Strategy & Logic:** Because life isn't just about code—sometimes it’s a high-stakes game of chess.
