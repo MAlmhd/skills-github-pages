@@ -1,8 +1,6 @@
 ---
 title: "Hello World: The Journey Begins"
 date: 2026-04-08
-layout: post
-categories: [Intro, Engineering]
 ---
 
 # Hello World! 🚀
